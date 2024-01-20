@@ -1,18 +1,18 @@
 <div align="center">
-<img src="https://github.com/Nicogreco2001/Nicogreco2001/blob/main/header.png" align="center" style="width: 100%" />
+<img src="https://github.com/nicogreeco/nicogreeco/blob/main/header.png" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm Nicola, a student at Utrecht University👨‍🎓 - MSc in Bioinformatics and Biocomplexity🔬💻 - 1st Year🚀</div>  
   
 
-- You can find my Resumee here [CV](https://github.com/Nicogreco2001/Nicogreco2001/blob/main/Resumee/Resumee.pdf)  
+- You can find my Resumee here [CV](https://github.com/nicogreeco/nicogreeco/blob/main/Resumee/Resumee.pdf)  
   
 
 - You can contact me via email: niccogreek@gmail.com  
 
 
-- You can find my bachelor's degree thesis and all the code I have used here [Thesis](https://github.com/Nicogreco2001/BioinformaticsThesisRepo).
+- You can find my bachelor's degree thesis and all the code I have used here [Thesis](https://github.com/nicogreeco/BioinformaticsThesisRepo).
 
 <br/>  
 
