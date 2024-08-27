@@ -2,7 +2,9 @@
 <img src="https://github.com/nicogreeco/nicogreeco/blob/main/header.png" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">Nicola Greco | Bioinformatics and Biocomplexity MSc | Evolutionary Bioinformatics Intern | Enthusiast in Machine Learning & Evolution 👨‍🎓🔬💻</div>  
+### <div align="center">Bioinformatics and Biocomplexity MSc | Evolutionary Bioinformatics Intern | Enthusiast in Machine Learning & Evolution 👨‍🎓🔬💻</div>  
+
+## About Me 
 
 I’m Nicola Greco, an Italian bioinformatician currently pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University, where I’m entering my second year. My academic journey began with a Bachelor’s in Bioinformatics from Sapienza University, driven by my deep interest in biology and passion for understanding evolution and its mechanisms.
 
