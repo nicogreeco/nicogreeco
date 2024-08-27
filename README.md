@@ -1,40 +1,24 @@
 <div align="center">
 <img src="https://github.com/nicogreeco/nicogreeco/blob/main/header.png" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Nicola, a student at Utrecht University👨‍🎓 - MSc in Bioinformatics and Biocomplexity🔬💻 - 1st Year🚀</div>  
-  
+### <div align="center">Nicola Greco | Bioinformatics and Biocomplexity MSc | Evolutionary Bioinformatics Intern | Enthusiast in Machine Learning & Evolution 👨‍🎓🔬💻</div>  
+
+I’m Nicola Greco, an Italian bioinformatician currently pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University, where I’m entering my second year. My academic journey began with a Bachelor’s in Bioinformatics from Sapienza University, driven by my deep interest in biology and passion for understanding evolution and its mechanisms.
 
 - You can find my Resumee here [CV](https://github.com/nicogreeco/nicogreeco/blob/main/Resumee/Resumee.pdf)  
-  
-
 - You can contact me via email: niccogreek@gmail.com  
-
-
-- You can find my bachelor's degree thesis and all the code I have used here [Thesis](https://github.com/nicogreeco/BioinformaticsThesisRepo).
+- Check out my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/nicogreeco/)
 
 <br/>  
 
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-</div>
-
-
-</td></tr></table>  
-
+## Explore My Projects  
+Check out some of my highlighted projects:  
+- [Network Science and Clustering of PPI Network](https://github.com/nicogreeco/network_science_project)  
+- [CNN for MSI Decoding](https://github.com/nicogreeco/deep_learning_project)  
+- [Bioinformatics Bachelor's Thesis](https://github.com/nicogreeco/BioinformaticsThesisRepo)  
+  
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -45,19 +29,9 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
+<br />  
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
