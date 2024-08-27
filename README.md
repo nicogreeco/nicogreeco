@@ -16,8 +16,8 @@ I’m Nicola Greco, an Italian bioinformatician currently pursuing a Master’s 
 
 ## Explore My Projects  
 Check out some of my highlighted projects:  
-- [Network Science and Clustering of PPI Network](https://github.com/nicogreeco/network_science_project)  
-- [CNN for MSI Decoding](https://github.com/nicogreeco/deep_learning_project)  
+- [Network Science: Clustering of PPI Network](https://github.com/nicogreeco/network_science_project)  
+- [Deep Learning: CNN for MEG data decoding](https://github.com/nicogreeco/deep_learning_project)  
 - [Bioinformatics Bachelor's Thesis](https://github.com/nicogreeco/BioinformaticsThesisRepo)  
   
 <br/>  
