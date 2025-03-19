@@ -20,7 +20,7 @@ Check out some of my highlighted projects:
 - [Deep Learning: CNN for MEG data decoding](https://github.com/nicogreeco/deep_learning_project)  
 - [Bioinformatics Bachelor's Thesis](https://github.com/nicogreeco/BioinformaticsThesisRepo)
 
-Lately I also had some fun playing with LLs, here some projects:
+Lately I also had some fun playing with LLMs, here some projects:
 - [RAG-based helper for my thesis writing](https://github.com/nicogreeco/RAG_llm) (didn't now at the time that NotebookLM was actually a thing lol)
 - [Sbobbinator: AI-based High-Quality Lesson Transcription & Revision Tool](https://github.com/nicogreeco/sbobbinator)
 <br/>  
