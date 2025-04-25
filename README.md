@@ -8,7 +8,6 @@
 
 I’m Nicola Greco, an Italian bioinformatician currently pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University, where I’m entering my second year. My academic journey began with a Bachelor’s in Bioinformatics from Sapienza University, driven by my deep interest in biology and passion for understanding evolution and its mechanisms.
 
-- You can find my Resumee here [CV](https://github.com/nicogreeco/nicogreeco/blob/main/Resumee/Resumee.pdf)  
 - You can contact me via email: niccogreek@gmail.com  
 - Check out my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/nicogreeco/)
 
