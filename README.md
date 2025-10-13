@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/nicogreeco/nicogreeco/blob/main/header.png" align="center" style="width: 100%" />
+<img src="https://github.com/nicogreeco/nicogreeco/blob/main/header.jpg" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">Bioinformatics and Biocomplexity MSc | Enthusiast in Deep Learning & Evolution 👨‍🎓🔬💻</div>  
