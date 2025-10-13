@@ -6,7 +6,7 @@
 
 ## About Me 
 
-I’m Nicola Greco, an Italian bioinformatician currently pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University, where I’m entering my second year. My academic journey began with a Bachelor’s in Bioinformatics from Sapienza University, driven by my deep interest in biology and passion for understanding evolution and its mechanisms.
+I’m Nicola Greco, an Italian bioinformatician currently pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University, where I’m entering my second year. My academic journey began with a Bachelor’s in Bioinformatics from Sapienza University.
 
 - You can contact me via email: niccogreek@gmail.com  
 - Check out my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/nicogreeco/)
@@ -21,7 +21,7 @@ Check out some of my highlighted projects:
 Lately I also had some fun playing with LLMs, here some projects:
 - [RAG-based helper for my thesis writing](https://github.com/nicogreeco/RAG_llm) (didn't now at the time that NotebookLM was actually a thing lol)
 - [Sbobbinator: AI-based High-Quality Lesson Transcription & Revision Tool](https://github.com/nicogreeco/sbobbinator)
-- [Sbobbinator: AI-based High-Quality Lesson Transcription & Revision Tool](https://github.com/nicogreeco/sbobbinator)
+- [Daily Notes: Automatic daily tracking of your work for Obsidian](https://github.com/nicogreeco/daily_notes)
 <br/>  
 
 ## Connect with me  
