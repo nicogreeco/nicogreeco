@@ -2,7 +2,7 @@
 <img src="https://github.com/nicogreeco/nicogreeco/blob/main/header.png" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">Bioinformatics and Biocomplexity MSc | Evolutionary Bioinformatics Intern | Enthusiast in Machine Learning & Evolution 👨‍🎓🔬💻</div>  
+### <div align="center">Bioinformatics and Biocomplexity MSc | Enthusiast in Deep Learning & Evolution 👨‍🎓🔬💻</div>  
 
 ## About Me 
 
@@ -17,10 +17,10 @@ I’m Nicola Greco, an Italian bioinformatician currently pursuing a Master’s 
 Check out some of my highlighted projects:  
 - [Network Science: Clustering of PPI Network](https://github.com/nicogreeco/network_science_project)  
 - [Deep Learning: CNN for MEG data decoding](https://github.com/nicogreeco/deep_learning_project)  
-- [Bioinformatics Bachelor's Thesis](https://github.com/nicogreeco/BioinformaticsThesisRepo)
 
 Lately I also had some fun playing with LLMs, here some projects:
 - [RAG-based helper for my thesis writing](https://github.com/nicogreeco/RAG_llm) (didn't now at the time that NotebookLM was actually a thing lol)
+- [Sbobbinator: AI-based High-Quality Lesson Transcription & Revision Tool](https://github.com/nicogreeco/sbobbinator)
 - [Sbobbinator: AI-based High-Quality Lesson Transcription & Revision Tool](https://github.com/nicogreeco/sbobbinator)
 <br/>  
 
