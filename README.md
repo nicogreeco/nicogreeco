@@ -2,27 +2,29 @@
 <img src="https://github.com/nicogreeco/nicogreeco/blob/main/header.jpg" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">Bioinformatics and Biocomplexity MSc | Enthusiast in Deep Learning & Evolution 👨‍🎓🔬💻</div>  
+### <div align="center">Bioinformatics and Biocomplexity MSc | Specialized in Deep Learning 👨‍🎓🔬💻</div>  
 
 ## About Me 
 
-I’m Nicola Greco, an Italian bioinformatician currently pursuing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University, where I’m entering my second year. My academic journey began with a Bachelor’s in Bioinformatics from Sapienza University.
+I’m Nicola Greco, an applied machine learning researcher with a computational biology background, currently completing a Master’s degree in Bioinformatics and Biocomplexity at Utrecht University. My work focuses on deep learning and probabilistic models for biological data.
 
 - You can contact me via email: niccogreek@gmail.com  
 - Check out my LinkedIn profile here: [LinkedIn](https://www.linkedin.com/in/nicogreeco/)
 
 <br/>  
 
-## Explore My Projects  
-Check out some of my highlighted projects:  
-- [Network Science: Clustering of PPI Network](https://github.com/nicogreeco/network_science_project)  
-- [Deep Learning: CNN for MEG data decoding](https://github.com/nicogreeco/deep_learning_project)  
+## Deep Learning & Applied ML Projects  
+Here are some selected projects where I experimented with deep learning and modern ML techniques:
 
-Lately I also had some fun playing with LLMs and other deep learning models, here some projects:
-- [RAG-based helper for my thesis writing](https://github.com/nicogreeco/RAG_llm) (didn't now at the time that NotebookLM was actually a thing lol)
-- [Sbobbinator: AI-based High-Quality Lesson Transcription & Revision Tool](https://github.com/nicogreeco/sbobbinator)
-- [Daily Notes: Automatic daily tracking of your work for Obsidian](https://github.com/nicogreeco/daily_notes) - You should check this!
-<br/>  
+- [Deep Learning: CNN for MEG Data Decoding](https://github.com/nicogreeco/deep_learning_project)  
+- [RAG-based Helper for Thesis Writing](https://github.com/nicogreeco/RAG_llm) – Retrieval-Augmented Generation system built to support academic writing  
+- [Sbobbinator: AI-based High-Quality Lesson Transcription & Revision Tool](https://github.com/nicogreeco/sbobbinator)  
+- [Daily Notes: Automatic Daily Work Tracking for Obsidian](https://github.com/nicogreeco/daily_notes)
+
+## University & Computational Biology Projects  
+Projects developed during my academic training in bioinformatics and computational science:
+
+- [Network Science: Clustering of PPI Networks](https://github.com/nicogreeco/network_science_project)
 
 ## Connect with me  
 <div align="center">
