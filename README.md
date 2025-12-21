@@ -17,10 +17,11 @@ I’m Nicola Greco, an applied machine learning researcher with a computational 
 Here are some selected projects where I experimented with deep learning and modern ML techniques:
 
 - [JurassiClass: Dinosaur Image Classification with CNNs](https://github.com/nicogreeco/JurassicClass) – End-to-end computer vision project including dataset creation, CLIP-based filtering, transfer learning, and nested cross-validation
-- [Deep Learning: CNN for MEG Data Decoding](https://github.com/nicogreeco/deep_learning_project)  
-- [RAG-based Helper for Thesis Writing](https://github.com/nicogreeco/RAG_llm) – Retrieval-Augmented Generation system built to support academic writing  
 - [Sbobbinator: AI-based High-Quality Lesson Transcription & Revision Tool](https://github.com/nicogreeco/sbobbinator)  
 - [Daily Notes: Automatic Daily Work Tracking for Obsidian](https://github.com/nicogreeco/daily_notes)
+- [Deep Learning: CNN for MEG Data Decoding](https://github.com/nicogreeco/deep_learning_project)  
+- [RAG-based Helper for Thesis Writing](https://github.com/nicogreeco/RAG_llm) – Retrieval-Augmented Generation system built to support academic writing  
+
 
 ## University & Computational Biology Projects  
 Projects developed during my academic training in bioinformatics and computational science:
