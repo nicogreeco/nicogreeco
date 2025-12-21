@@ -27,15 +27,7 @@ Projects developed during my academic training in bioinformatics and computation
 
 - [Network Science: Clustering of PPI Networks](https://github.com/nicogreeco/network_science_project)
 
-## Connect with me  
-<div align="center">
-<a href="https://instagram.com/nicola_greeco" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/nicola.greco.566790/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
+
 
 
 <br />  
